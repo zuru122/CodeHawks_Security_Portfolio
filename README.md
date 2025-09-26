@@ -7,7 +7,7 @@ It contains reports documenting vulnerabilities, risks, and recommendations for 
 
 ## 📂 PasswordStore Audit
 - **Project**: PasswordStore  
-- **Report**: [Audit Report](26-09-2025 PasswordStore)  
+- **Report**: [Audit Report](26-09-2025 PasswordStore.pdf)  
 - **Scope**: Review of storage logic, access control, and potential vulnerabilities  
 - **Status**: Completed  
 
